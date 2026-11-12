@@ -1,0 +1,1 @@
+Create an assistant for my bike shop that replies to customers on WhatsApp with tune-up prices and schedules appointments. Use the price list in precos.csv. Do a great job and let me know when you’re done.

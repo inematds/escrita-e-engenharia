@@ -1,0 +1,1 @@
+Crea un asistente para mi bicicletería que responda a los clientes por WhatsApp con el precio del mantenimiento y agende una cita. Usa la tabla de precios de precos.csv. Esfuérzate y avísame cuando termines.
